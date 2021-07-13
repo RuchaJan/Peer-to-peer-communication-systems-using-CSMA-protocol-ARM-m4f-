@@ -1,0 +1,9 @@
+The hardware configuration
+
+channel for Green = 23
+
+Channel for Red = 32
+
+Channel for RGB = 86
+
+Channel for PushButton1 = 56
